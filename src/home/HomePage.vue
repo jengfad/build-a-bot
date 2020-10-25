@@ -5,6 +5,7 @@
     </div>
     <div class="get-started">
       <router-link :to="{name: 'Build'}">Get Started</router-link> building your first robot!
+      <p>Powered by Vue.js</p>
     </div>
   </div>
 </template>

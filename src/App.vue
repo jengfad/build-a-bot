@@ -34,7 +34,7 @@
     </header>
     <div class="container">
       <aside class="aside">
-        <router-view name="sidebar"/>
+        <!-- <router-view name="sidebar"/> -->
       </aside>
       <main>
         <router-view/>
